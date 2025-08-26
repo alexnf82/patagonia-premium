@@ -1,6 +1,6 @@
 import Header from '@/components/Header'
 import Hero from '@/components/Hero'
-import { Mountain, Sun, Flower } from 'lucide-react'
+import { Mountain, Sun, Flower, Star } from 'lucide-react'
 
 export default function Home() {
   return (
