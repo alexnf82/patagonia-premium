@@ -1,0 +1,195 @@
+Crie um site completo para uma agência de viagens premium especializada em Bariloche, Argentina, com foco em conversão máxima, SEO otimizado e design mobile-first. O site deve transmitir exclusividade e qualidade premium.
+
+### ESPECIFICAÇÕES TÉCNICAS:
+- HTML5 semântico + CSS3 moderno + JavaScript vanilla
+- Design mobile-first responsivo
+- Performance otimizada (Core Web Vitals)
+- SEO técnico implementado
+- Animações suaves e micro-interações
+- Sistema de pagamento integrado (PIX, cartão, Bitcoin)
+
+### ESTRUTURA DO SITE:
+
+**HEADER FIXO:**
+- Logo "Patagonia Premium Experience"
+- Menu: Temporadas | Família | Aventura | Corporativo | Depoimentos | Contato
+- Botões: "Consultoria Grátis" (destaque) | "Reservar Agora"
+- WhatsApp fixo flutuante
+
+**HERO SECTION:**
+- Background: Video/animação de Bariloche em diferentes estações
+- H1: "Sua Experiência Premium na Patagônia"
+- Subtitle: "Concierge 24h • Guias Exclusivos • Experiências Únicas"
+- 3 cards flutuantes das temporadas:
+  * 🎿 INVERNO PREMIUM (R$ 8.900)
+  * 🌞 VERÃO EXCLUSIVO (R$ 6.900)  
+  * 🍂 SPRING BREAK (R$ 5.900)
+- Trust indicators: ⭐ 4.9/5 | 847 experiências | Seguro incluído
+
+**SEÇÃO DIFERENCIAL PREMIUM:**
+Cards expansíveis mobile-friendly:
+1. 👤 Concierge Pessoal 24h
+2. 🎯 Experiências Exclusivas
+3. 👨‍👩‍👧‍👦 Especialista Família
+4. ⚡ Flexibilidade Total
+
+**SELETOR DE TEMPORADAS:**
+Tabs interativas (mobile swipe):
+- INVERNO: Esqui, neve, atividades indoor (Jun-Set)
+- VERÃO: Lagos, trekking, atividades aquáticas (Dez-Mar)
+- SPRING: Flores, menos multidão, preços menores (Set-Nov)
+
+**PACOTES POR TEMPORADA:**
+Cards premium para cada estação:
+- Família Premium
+- Aventura Extrema  
+- Casal Romântico
+- Corporativo Executive
+
+**WALL OF DEPOIMENTOS:**
+- Carousel de vídeo-depoimentos
+- Grid Instagram feed ao vivo
+- Dados de impacto: 847 experiências, 4.9/5 estrelas
+- Filtros por tipo (família, casal, aventura)
+
+**SEÇÃO CONCIERGE 24H:**
+- Vídeo explicativo (30s)
+- Exemplos reais de suporte via WhatsApp
+- Cases de problemas resolvidos instantaneamente
+- "Diferencial que só nós oferecemos"
+
+**EXPERIÊNCIAS EXCLUSIVAS:**
+Grid com atividades únicas:
+- Estância privada fechada ao público
+- Helicóptero sobre glaciares
+- Chef experience privativo
+- Acesso VIP sem filas
+- Locais secretos para fotos
+
+**GARANTIAS REALISTAS:**
+- Padrão premium auditado
+- Plano B para todas atividades
+- Flexibilidade de cancelamento
+- Suporte garantido em 2h
+
+**FAQ INTELIGENTE:**
+Perguntas expansíveis sobre:
+- Melhor época para ir
+- O que está incluído
+- Como funciona o concierge
+- Formas de pagamento
+- Política de cancelamento
+
+**CTA FINAL:**
+- Urgência: "Últimas vagas para alta temporada"
+- Múltiplas opções: Reservar | Consultoria | WhatsApp
+- Contador regressivo para desconto
+
+**FOOTER COMPLETO:**
+- Links úteis, contato, redes sociais
+- Certificações e parceiros
+- Política de privacidade
+- Newsletter signup
+
+### FUNCIONALIDADES INTERATIVAS:
+
+**Sistema de Chat IA:**
+- Chatbot "Sofia" integrado
+- Respostas sobre pacotes, preços, datas
+- Escalação para atendimento humano
+- Histórico de conversa salvo
+
+**Modal de Vídeo Chamada:**
+- Botão "Falar com Especialista"
+- Agendamento de consultoria
+- Calendário integrado
+- Lembretes automáticos
+
+**Carrinho de Compras:**
+- Adicionar múltiplos serviços
+- Cálculo automático de preços
+- Desconto por quantidade
+- Checkout em 3 passos
+
+**Sistema de Pagamento:**
+- PIX (5% desconto)
+- Cartão (12x sem juros)
+- Bitcoin/crypto (3% desconto)
+- Parcelamento próprio (24x)
+
+### ELEMENTOS DE CONVERSÃO:
+
+**Urgência e Escassez:**
+- "Apenas 8 grupos por mês"
+- "Restam X vagas para [mês]"
+- Contador regressivo
+- "Esgota em 48h na alta temporada"
+
+**Social Proof:**
+- Número de experiências realizadas
+- Avaliações em tempo real
+- Fotos de clientes atuais
+- Certificações e prêmios
+
+**Popup Strategy:**
+- Exit intent com desconto
+- Carrinho abandonado
+- Tempo no site (offer especial)
+- Scroll depth (consultoria grátis)
+
+### DESIGN GUIDELINES:
+
+**Cores:**
+- Primária: Azul patagônico (#2c5aa0)
+- Secundária: Dourado premium (#d4af37)
+- Neutras: Cinza moderno (#f8f9fa)
+- Acentos: Verde natureza (#228b22)
+
+**Typography:**
+- Headers: Font premium (Montserrat Bold)
+- Body: Clean e legível (Open Sans)
+- Hierarquia clara H1>H2>H3
+- Contrast ratio WCAG AA
+
+**Imagens:**
+- Fotos profissionais 4K de Bariloche
+- Videos de background otimizados
+- Ícones consistentes (Lucide React)
+- Lazy loading implementado
+
+### SEO REQUIREMENTS:
+
+**Meta Tags:**
+- Title: "Bariloche Premium 2025 | Experiências Exclusivas Patagônia"
+- Description: Call-to-action + diferencial + preço
+- Open Graph para redes sociais
+- Schema markup para agência de viagens
+
+**Performance:**
+- LCP < 2.5s
+- FID < 100ms
+- CLS < 0.1
+- Images WebP + responsive
+- CSS crítico inline
+
+**Tracking:**
+- Google Analytics 4
+- Facebook Pixel
+- Hotjar heatmaps
+- Conversion tracking
+
+### RESPONSIVIDADE:
+
+**Mobile First:**
+- Breakpoints: 320px, 768px, 1024px, 1440px
+- Touch-friendly (44px mínimo)
+- Swipe gestures
+- Thumb-friendly navigation
+
+**Progressive Enhancement:**
+- Funciona sem JavaScript
+- Graceful degradation
+- Offline fallbacks
+- Loading states
+
+Implemente todas essas funcionalidades priorizando conversão, experiência do usuário e performance. O site deve transmitir luxo, exclusividade e confiança absoluta.
